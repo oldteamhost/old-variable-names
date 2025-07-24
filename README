@@ -34,6 +34,7 @@
 	ov		overflow/offset value/...
 	ed		end/edit/...
 	cc		character count
+	sz		size
 	id		identifier
 
 		(3)
@@ -131,3 +132,5 @@
 	<t>siz		size <t>
 	filename	.
 	<c>flag		flag <c>
+	<t>sz		size <t>
+
