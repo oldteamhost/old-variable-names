@@ -55,6 +55,7 @@
 	str		string
 	err		error
 	out		.
+	off		offset
 	arg		argument
 	cnt		count
 	txt		text
