@@ -1,0 +1,132 @@
+
+		(1)
+
+	i		counter
+	t		temporary
+	s		string
+	r		reserved/return/...
+	n		counter
+	j		counter
+	k		counter
+	a		address
+	c		character/count/current/...
+	p		pointer
+	f		file
+
+		(2)
+
+	np		new/next/name/... pointer
+	sp		stack/string/... pointer
+	rc		return code
+	av		argument vector
+	cp		character pointer
+	ap		argument/address/... pointer
+	tp		tty/temporary/table/type/... pointer
+	lp		line/loop/... pointer
+	bp		buffer/... pointer
+	fp		file pointer
+	fi		file input
+	fo		file output
+	fd		file descriptor
+	in		.
+	st		stat(s)/start
+	ns		nanoseconds
+	ov		overflow/offset value/...
+	ed		end/edit/...
+	cc		character count
+	id		identifier
+
+		(3)
+
+	ret		return
+	res		result
+	siz		size
+	len		length
+	mem		memory
+	ptr		pointer
+	dir		directory
+	sum		summary/./...
+	val		value
+	var		variable
+	col		column
+	row		.
+	msg		message
+	cur		current
+	str		string
+	err		error
+	out		.
+	arg		argument
+	cnt		count
+	txt		text
+	dat		data
+	fin		finish
+	lvl		level
+	end		.
+	key		.
+	nxt		next
+	tok		token
+	non		no
+	fmt		format/formatted/...
+	now		.
+	sig		signal
+
+		(4)
+
+	flag		.
+	line		.
+	name		.
+	from		.
+	file		.
+	dead		.
+	mask		.
+	swap		.
+	size		.
+	warn		warning
+	data		.
+	sbuf		static/string/... buffer
+	nbuf		number/... buffer
+	word		.
+	zero		.
+	lost		.
+	mode		.
+	skip		.
+	list		.
+	addr		address
+	spec		special
+	user		.
+	page		.
+	init		./initilization
+	date		.
+	updt		update
+	save		.
+
+		(5)
+
+	alive		.
+	state		status/.
+	alpha		.
+	token		.
+	start		.
+	peekc		peekc character
+	ident		identifier
+	range		.
+	symbl		symbol
+	value		.
+	level		.
+	debug		.
+
+		(6)
+
+	symbuf		symbol buffer
+	random		.
+	symbol		.
+	tstamp		time stamp
+	target		.
+
+		(?)
+
+	n<t>		number <t>
+	timeout		.
+	<t>siz		size <t>
+	filename	.
+	<c>flag		flag <c>
